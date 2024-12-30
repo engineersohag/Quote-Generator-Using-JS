@@ -18,4 +18,4 @@ This application fetches random quotes from the **[Quotable API](https://api.quo
 ## 🛠 How to Use
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/quote-generator.git
+   git clone https://github.com/engineersohag/quote-generator.git
